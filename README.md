@@ -19,8 +19,3 @@ Cook App é um aplicativo móvel desenvolvido com React Native e TypeScript, pro
 1. Clone este repositório.
 2. Instale as dependências utilizando `yarn install`.
 3. Execute o aplicativo utilizando `npx expo start` ou `expo start`.
-
-
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).

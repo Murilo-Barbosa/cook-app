@@ -20,8 +20,7 @@ Cook App é um aplicativo móvel desenvolvido com React Native e TypeScript, pro
 2. Instale as dependências utilizando `yarn install`.
 3. Execute o aplicativo utilizando `npx expo start` ou `expo start`.
 
-<h1 align="center">
-  <img width="100%" alt="Banner" title="Preview 1" src="assets/images/preview image 1.jpeg" />
-  <img width="100%" alt="Banner" title="Preview 1" src="assets/images/preview image 2.jpeg" />
-</h1>
-   
+<div align='center'>
+  <img style="width: 25%; max-width: 400px;" alt="Preview 1" title="Preview 1" src="assets/images/preview image 1.jpeg" />
+  <img style="width: 25%; max-width: 400px;"  alt="Preview 2" title="Preview 2" src="assets/images/preview image 2.jpeg" />
+</div>
